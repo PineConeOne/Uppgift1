@@ -81,5 +81,4 @@ public class TestMorse {
         // Assert
         assertEquals(expected, actual);
     }
-
 }
